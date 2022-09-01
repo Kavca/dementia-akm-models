@@ -1,1 +1,1 @@
-# this folder contains AKM Model json files
+# This folder contains AKM Model json files

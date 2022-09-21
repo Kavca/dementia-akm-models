@@ -8,6 +8,6 @@ To open a model-file in AKM Modeller:
 
 ![GitHub dialog](./../img/doc/GitHubDialog.png)
 
-   Click Select Model and choose the model-file you want to open.
+4. Click Select Model and choose the model-file you want to open.
 5. The Project.json file will be loaded into the modelling area.
-6. 
+   

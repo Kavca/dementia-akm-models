@@ -1,8 +1,4 @@
-# kavca-akm-template
-Template for AKM Model repositories
-# AKM Models
-
-This is a public repo for AKM models made in AKM Modeller and saved as .json files.
+# kavca-dementia-models
 
 ## Introduction
 
@@ -16,8 +12,6 @@ AKM Modelling can also be done as a collaborate task with several team members w
 Open the webpage:  
 
 <https://akmclient-beta.herokuapp.com/modelling> latest version with newest features
-
-<https://akmclient.herokuapp.com/modelling> previous more tested version
 
 ---
 

@@ -4,9 +4,9 @@
 
 Click on the links below to open the models in AKM Modeller:
 
-## Production
-
 - [Dementia Solution Model](https://akmmclient-main.vercel.app/project?org=kavca&repo=akm-dementia-models&path=models&file=Dementia%20Treatment%20Model.json&branch=main)
+
+- [Dementia Solution Model](https://akmmclient-main.vercel.app/project?org=kavca&repo=akm-dementia-models&path=models&file=Dementia Treatment Model.json&branch=main)
 
 ---
 

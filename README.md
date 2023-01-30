@@ -6,12 +6,7 @@ Click on the links below to open the models in AKM Modeller:
 
 ## Production
 
-
-
-https://github.com/Kavca/kavca-dementia-models/tree/main/models#:~:text=dementia%20treatment%20model%20v1.json
-- [EQUINOR Wellbore Concept Model](https://akmmclient-main.vercel.app/project?org=kavca&repo=osdu-akm-models&path=production&file=EQUINOR%20Wellbore%20Concept%20Model.json&branch=main)
-
-- [Dementia Solution Model](https://akmmclient-main.vercel.app/project?org=kavca&repo=akm-dementia-models&path=models&file=dementia%20treatment%20model.json&branch=main)
+- [Dementia Solution Model](https://akmmclient-main.vercel.app/project?org=kavca&repo=akm-dementia-models&path=models&file=Dementia%20Treatment%20Model.json&branch=main)
 
 ---
 

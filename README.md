@@ -6,13 +6,6 @@ Click on the links below to open the models in AKM Modeller:
 
 - [Dementia Concept Model](https://akmmclient-main.vercel.app/project?org=kavca&repo=kavca-dementia-models&path=models&file=Dementia%20Treatment%20Model.json&branch=main)
 
-
-
-- [AKM Basic Concept Model](https://akmmclient-main.vercel.app/project?org=kavca&repo=kavca-dementia-models&path=models&file=Dementia%20Treatment%20Model.json&branch=main)
-
-
-
-
 ---
 
 ## Introduction
@@ -24,9 +17,11 @@ AKM Modelling can also be done as a collaborate task with several team members w
 
 (Tips: You can duplicate this browser-tab and move it on the side, to have it available when doing the procedure)
 
-Open the webpage:  
+Open AKM Modeller:  
 
-<https://akmclient-beta.herokuapp.com/modelling> latest version with newest features
+<https://akmmclient-main.vercel.app/modelling> latest version with latest features
+
+<https://akmclient-beta.herokuapp.com/modelling> more tested version without latest features
 
 ---
 

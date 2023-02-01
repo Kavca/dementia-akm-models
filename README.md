@@ -1,6 +1,6 @@
 | Readme | [Project](https://github.com/orgs/Kavca/projects/3) | [Upload models](UploadModels.md) | [About](about.md) | 
 
-#  Kavca Dementia Models
+# Kavca Dementia Models
 
 Click on the links below to open the models in AKM Modeller:
 

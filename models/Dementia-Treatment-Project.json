@@ -26892,8 +26892,8 @@
       "name": ""
     },
     "focusProj": {
-      "id": null,
-      "name": "",
+      "id": "kavca-dementia-models",
+      "name": "kavca-dementia-models",
       "org": "kavca",
       "repo": "kavca-dementia-models",
       "path": "models",

@@ -12,6 +12,7 @@ Click on the links below to open the models in AKM Modeller:
 
 The Modelling process is based on the following steps:
 
+![]()
 <details>
 <summary>Design Thinking</summary>
   

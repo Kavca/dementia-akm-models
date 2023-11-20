@@ -4,14 +4,31 @@
 
 Click on the links below to open the models in AKM Modeller:
 
-- [Dementia Concept Model](https://akmmclient-main.vercel.app/project?org=kavca&repo=kavca-dementia-models&path=models&file=Dementia-Treatment-Model.json&branch=main)
+- [Dementia Treatment Concepts](http://akmmclient-beta.vercel.app/modelling?focus=%7B%22githubFile%22%3A%7B%22org%22%3A%22kavca%22%2C%22repo%22%3A%22dementia-akm-models%22%2C%22branch%22%3A%22main%22%2C%22path%22%3A%22models%22%2C%22filename%22%3A%22Dementia-Treatment-Concepts_PR.json%22%7D%7D)
 
 ---
 
 ## Introduction
 
-AKM Modelling can be done locally with models stored locally on your computer as Project.json files.
-AKM Modelling can also be done as a collaborate task with several team members with Project.json files stored in a GitHub repository.
+The Modelling process is based on the following steps:
+
+<details>
+<summary>Design Thinking</summary>
+  
+The Design Thinking process is a user-centric approach to problem-solving that typically involves five phases. It's widely used in various fields, including software development, product design, and business innovation. Here's an overview of each phase:
+
+Empathize: This initial stage involves understanding the users' needs, experiences, and motivations. It often includes observing and engaging with users to gain insights into their behaviors and attitudes. This phase is crucial for establishing empathy with the users, which is a key aspect of Design Thinking.
+
+Define: In this phase, the insights gathered during the Empathize stage are synthesized into a clear problem statement. This is where you define the core problem you are trying to solve, often in the form of a user-centered problem statement. It sets a clear direction for the project.
+
+Ideate: Once the problem is defined, the Ideate phase involves generating a wide range of creative ideas to address the problem. This is often done through brainstorming sessions and other ideation techniques. The goal is to explore a broad solution space and think outside the box.
+
+Prototype: The ideas generated during the Ideate phase are turned into tangible prototypes. These prototypes can range from simple paper models to more sophisticated digital or physical creations. The purpose of this phase is to create a physical or digital representation of the solutions to explore their potential.
+
+Test: In the final phase, the prototypes are tested with real users. This involves observing how users interact with the prototype and gathering feedback. The testing phase is crucial for understanding the viability of the proposed solutions and for making iterative improvements based on user feedback.
+
+Throughout the Design Thinking process, iteration is key. Based on feedback and insights gained, teams often cycle back to earlier stages to refine their understanding of the problem or to explore new solution ideas. This iterative approach ensures that the final solution is deeply aligned with user needs and has gone through rigorous refinement and testing.
+</details>
 
 ## Lets get started
 
@@ -19,9 +36,13 @@ AKM Modelling can also be done as a collaborate task with several team members w
 
 Open AKM Modeller:  
 
-<https://akmmclient-main.vercel.app/modelling> latest version with latest features
+<https://akmmclient-main.vercel.app/modelling> the most tested version, but may lack some features
 
 <https://akmclient-beta.herokuapp.com/modelling> more tested version without latest features
+
+<https://akmclient-alfa.herokuapp.com/modelling> bleeding edge version with latest featuress not well tested
+
+(You can switch version by clicking on the dropdown menu "V." in the main menu of AKM Modeller)
 
 ---
 

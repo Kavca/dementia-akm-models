@@ -12,7 +12,7 @@ Click on the links below to open the models in AKM Modeller:
 
 The Modelling process is based on the following steps:
 
-![AKM Modelling Overview](./img/AKM-Type-Definitions_AKM-Type-Definitions_TD_0-Overview.svg)
+![AKM Modelling Overview](./img/AKM-Modelling-Process.png)
 
 We adapt this general process to AKM modelling purpose.
 

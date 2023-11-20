@@ -1,0 +1,1 @@
+# Images used in models as icons

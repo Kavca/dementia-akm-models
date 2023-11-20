@@ -12,7 +12,7 @@ Click on the links below to open the models in AKM Modeller:
 
 The Modelling process is based on the following steps:
 
-![AKM Modelling Overview](./img/AKM-Type-Definitions_AKM-Type-Definitions_TD_0-Overview.svg)
+![AKM Modelling Overview](./img/AKM-Modelling-Process.png)
 
 We adapt this general process to AKM modelling purpose.
 
@@ -42,7 +42,7 @@ Throughout the Design Thinking process, iteration is key. Based on feedback and 
 </details>
 
 <details>
-<summary>Lean Startup (Build the Right Thing!)</summary>
+<summary>Lean (Build the Right Thing!)</summary>
 
 Lean Startup process emphasizes the importance of flexibility, quick iterations, and customer feedback in the development of products or services. The process consists of several key components:
 
@@ -62,7 +62,7 @@ Overall, the Lean Startup methodology is about being more adaptive, customer-foc
 </details>
 
 <details>
-<summary>Agile development (Build the Thing Right!)</summary>
+<summary>Agile (Build the Thing Right!)</summary>
 
 Agile development is a methodology that prioritizes flexibility, collaboration, customer feedback, and rapid iteration in the development of software products. Originating from the Agile Manifesto, it contrasts with traditional waterfall methods by being more adaptive and responsive to changes. 
 

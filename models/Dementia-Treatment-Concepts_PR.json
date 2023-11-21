@@ -14009,7 +14009,7 @@
                   "isGroup": true,
                   "isExpanded": false,
                   "isSelected": false,
-                  "loc": "230 -350",
+                  "loc": "230 -380",
                   "template": "groupNoPorts",
                   "figure": "",
                   "geometry": "",
@@ -14020,7 +14020,7 @@
                   "strokewidth": 2,
                   "textcolor": "black",
                   "icon": "https://raw.githubusercontent.com/Kavca/dementia-akm-models/main/img/MangementSymptoms.png",
-                  "size": "350 320",
+                  "size": "310 250",
                   "scale": 1,
                   "memberscale": 1,
                   "textscale": "1",
@@ -14039,7 +14039,7 @@
                   "isGroup": true,
                   "isExpanded": false,
                   "isSelected": false,
-                  "loc": "690 -110",
+                  "loc": "640 -160",
                   "template": "groupNoPorts",
                   "figure": "",
                   "geometry": "",
@@ -14050,7 +14050,7 @@
                   "strokewidth": 2,
                   "textcolor": "black",
                   "icon": "https://raw.githubusercontent.com/Kavca/dementia-akm-models/main/img/SupportCarePlanning.png",
-                  "size": "350 310",
+                  "size": "330 250",
                   "scale": 1,
                   "memberscale": 1,
                   "textscale": "1",
@@ -14069,7 +14069,7 @@
                   "isGroup": true,
                   "isExpanded": false,
                   "isSelected": false,
-                  "loc": "-820 0",
+                  "loc": "-820 40",
                   "template": "groupNoPorts",
                   "figure": "",
                   "geometry": "",
@@ -14099,7 +14099,7 @@
                   "isGroup": true,
                   "isExpanded": false,
                   "isSelected": false,
-                  "loc": "-110 180",
+                  "loc": "-110 240",
                   "template": "groupNoPorts",
                   "figure": "",
                   "geometry": "",
@@ -14129,7 +14129,7 @@
                   "isGroup": true,
                   "isExpanded": false,
                   "isSelected": false,
-                  "loc": "580 320",
+                  "loc": "580 390",
                   "template": "groupNoPorts",
                   "figure": "",
                   "geometry": "",
@@ -14159,7 +14159,7 @@
                   "isGroup": false,
                   "isExpanded": true,
                   "isSelected": false,
-                  "loc": "-900 -690",
+                  "loc": "-900 -720",
                   "template": "textAndIcon",
                   "figure": "",
                   "geometry": "",
@@ -14189,7 +14189,7 @@
                   "isGroup": false,
                   "isExpanded": true,
                   "isSelected": false,
-                  "loc": "-160 -690",
+                  "loc": "-160 -730",
                   "template": "textAndIcon",
                   "figure": "",
                   "geometry": "",
@@ -14219,7 +14219,7 @@
                   "isGroup": false,
                   "isExpanded": true,
                   "isSelected": false,
-                  "loc": "310 -470",
+                  "loc": "280 -510",
                   "template": "textAndIcon",
                   "figure": "",
                   "geometry": "",
@@ -14249,7 +14249,7 @@
                   "isGroup": false,
                   "isExpanded": true,
                   "isSelected": false,
-                  "loc": "750 -230",
+                  "loc": "700 -290",
                   "template": "textAndIcon",
                   "figure": "",
                   "geometry": "",
@@ -14279,7 +14279,7 @@
                   "isGroup": false,
                   "isExpanded": true,
                   "isSelected": false,
-                  "loc": "-750 -110",
+                  "loc": "-750 -70",
                   "template": "",
                   "figure": "",
                   "geometry": "",
@@ -14309,7 +14309,7 @@
                   "isGroup": false,
                   "isExpanded": true,
                   "isSelected": false,
-                  "loc": "-400 190",
+                  "loc": "-370 230",
                   "template": "textAndIcon",
                   "figure": "",
                   "geometry": "",
@@ -14339,7 +14339,7 @@
                   "isGroup": false,
                   "isExpanded": true,
                   "isSelected": false,
-                  "loc": "1020 470",
+                  "loc": "1020 490",
                   "template": "textAndIcon",
                   "figure": "",
                   "geometry": "",
@@ -14369,7 +14369,7 @@
                   "isGroup": false,
                   "isExpanded": true,
                   "isSelected": false,
-                  "loc": "290 390",
+                  "loc": "310 410",
                   "template": "textAndIcon",
                   "figure": "",
                   "geometry": "",
@@ -14412,10 +14412,10 @@
                   "fromPortid": "",
                   "toPortid": "",
                   "points": [
-                    -629.9999606968448,
-                    -651.8808772501172,
-                    -699.0000786063102,
-                    -652.7460824903612
+                    -629.9999975432812,
+                    -684.5297805719647,
+                    -699.0000049134376,
+                    -684.3134796084219
                   ],
                   "routing": "",
                   "curve": "",
@@ -14445,10 +14445,10 @@
                   "fromPortid": "",
                   "toPortid": "",
                   "points": [
-                    -330.00002256661384,
-                    -651.4251779328588,
-                    -158.99995486677233,
-                    -653.0498816639737
+                    -330.00011421207216,
+                    -688.2066483897656,
+                    -158.9997715758557,
+                    -691.8622376622739
                   ],
                   "routing": "",
                   "curve": "",
@@ -14478,10 +14478,10 @@
                   "fromPortid": "",
                   "toPortid": "",
                   "points": [
-                    -59.31623933575062,
-                    -579.9999954343529,
-                    -59.149572610550024,
-                    -619.0000091312943
+                    -59.508928593671385,
+                    -579.9999950176127,
+                    -59.1562499555144,
+                    -659.0000099647746
                   ],
                   "routing": "",
                   "curve": "",
@@ -14511,10 +14511,10 @@
                   "fromPortid": "",
                   "toPortid": "",
                   "points": [
-                    109.99977926733703,
-                    -425.05307199520746,
-                    311.00044146532593,
-                    -431.0276139713685
+                    109.9999794337071,
+                    -471.54194992683637,
+                    281.00004113258575,
+                    -473.0929708946266
                   ],
                   "routing": "",
                   "curve": "",
@@ -14544,10 +14544,10 @@
                   "fromPortid": "",
                   "toPortid": "",
                   "points": [
-                    408.9344225139217,
-                    -349.99984889948115,
-                    410.13935169346814,
-                    -399.00030220103775
+                    382.71689650009563,
+                    -379.9999166197647,
+                    381.63926636053935,
+                    -439.0001667604706
                   ],
                   "routing": "",
                   "curve": "",
@@ -14577,10 +14577,10 @@
                   "fromPortid": "",
                   "toPortid": "",
                   "points": [
-                    579.9999798922223,
-                    -191.5695065461186,
-                    751.0000402155554,
-                    -193.10313937413054
+                    539.9999985553872,
+                    -254.6274038496265,
+                    701.0000028892257,
+                    -254.24038460843934
                   ],
                   "routing": "",
                   "curve": "",
@@ -14610,10 +14610,10 @@
                   "fromPortid": "",
                   "toPortid": "",
                   "points": [
-                    855.9205522124489,
-                    -109.99914437319438,
-                    853.0501089642236,
-                    -159.00171125361123
+                    802.7168965000956,
+                    -159.99991661976472,
+                    801.6392663605393,
+                    -219.0001667604706
                   ],
                   "routing": "",
                   "curve": "",
@@ -14643,12 +14643,10 @@
                   "fromPortid": "",
                   "toPortid": "",
                   "points": [
-                    690.0000024555242,
-                    44.451544064849,
-                    -98.05081734032217,
-                    41.9817660340932,
-                    -549.0214475169762,
-                    -52.953251139178015
+                    640.0000001182527,
+                    -34.8865199450607,
+                    -549.0000002365055,
+                    -34.068775790758934
                   ],
                   "routing": "",
                   "curve": "",
@@ -14678,10 +14676,10 @@
                   "fromPortid": "",
                   "toPortid": "",
                   "points": [
-                    -649.3162393357507,
-                    0.00000456564715989316,
-                    -649.14957261055,
-                    -39.00000913129432
+                    -649.3457944180323,
+                    40.00000545890265,
+                    -649.1635513508513,
+                    0.999989082194702
                   ],
                   "routing": "",
                   "curve": "",
@@ -14711,10 +14709,10 @@
                   "fromPortid": "",
                   "toPortid": "",
                   "points": [
-                    -480.00861151801104,
-                    191.964192706015,
-                    -398.9827769639779,
-                    207.19981971617509
+                    -480.0122706283636,
+                    218.36993366393892,
+                    -368.97545874327284,
+                    243.43336101857884
                   ],
                   "routing": "",
                   "curve": "",
@@ -14744,10 +14742,10 @@
                   "fromPortid": "",
                   "toPortid": "",
                   "points": [
-                    -109.97524766258782,
-                    287.79655364876936,
-                    -200.48893177582323,
-                    258.20554153482703
+                    -109.97532843142397,
+                    317.8972730568107,
+                    -170.4647384289709,
+                    298.15671709952744
                   ],
                   "routing": "",
                   "curve": "",
@@ -14777,10 +14775,10 @@
                   "fromPortid": "",
                   "toPortid": "",
                   "points": [
-                    929.9995229148808,
-                    497.65025236786363,
-                    1021.0009541702384,
-                    501.6284570129066
+                    929.999998133726,
+                    525.4781420714037,
+                    1021.000003732548,
+                    525.7267759664824
                   ],
                   "routing": "",
                   "curve": "",
@@ -14810,10 +14808,10 @@
                   "fromPortid": "",
                   "toPortid": "",
                   "points": [
-                    239.98524586011553,
-                    388.4779291861023,
-                    291.02950827976895,
-                    401.16070604497327
+                    239.98979420414753,
+                    410.9083103713713,
+                    311.0204115917049,
+                    425.4839572919394
                   ],
                   "routing": "",
                   "curve": "",
@@ -14843,10 +14841,10 @@
                   "fromPortid": "",
                   "toPortid": "",
                   "points": [
-                    580.0075538392148,
-                    459.2320973783235,
-                    490.98489232157044,
-                    443.5797612873091
+                    580.0126852993295,
+                    484.81395970536926,
+                    510.974629401341,
+                    468.95928989158705
                   ],
                   "routing": "",
                   "curve": "",
@@ -14885,12 +14883,12 @@
     "focusTargetModel": null,
     "focusTargetModelview": null,
     "focusObject": {
-      "id": "42b18d1c-4994-4c9a-0cc8-d0b30ec6c287",
-      "name": "Dementia Treatment Main Processes/Phases"
+      "id": "6117cf9f-cf2d-4f8b-4d7d-1d374c8430de",
+      "name": "End-of-Life Care"
     },
     "focusObjectview": {
-      "id": "59b79170-7382-4888-c258-823960cb4dad",
-      "name": "Dementia Treatment Main Processes/Phases"
+      "id": "12225bad-7c90-424f-092a-1af2ecaaaa1d",
+      "name": "End-of-Life Care"
     },
     "focusRelship": {
       "id": "",

@@ -14926,9 +14926,7 @@
       "path": "models",
       "file": "Dementia-Treatment-Concepts_PR.json",
       "branch": "main",
-      "projectNumber": "1",
-      "username": "kavca",
-      "filename": "Dementia-Treatment-Concepts_PR.json"
+      "projectNumber": "4"
     },
     "focusSource": {
       "id": null,
@@ -15051,7 +15049,7 @@
       "name": "1-TypeDefs"
     }
   },
-  "phSource": "Dementia-Treatment-Concepts_PR",
+  "phSource": "GitHub: dementia-akm-models/models/Dementia-Treatment-Concepts_PR.json",
   "phUser": {
     "focusUser": {
       "diagram": {

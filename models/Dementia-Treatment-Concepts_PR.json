@@ -15047,9 +15047,13 @@
     "focusModelview": {
       "id": "35d1acf4-e12a-48ec-bbdb-11f937996e00",
       "name": "1-TypeDefs"
+    },
+    "focusIssue": {
+      "id": 16,
+      "name": "New Concept model for Dementia"
     }
   },
-  "phSource": "GitHub: dementia-akm-models/models/Dementia-Treatment-Concepts_PR.json",
+  "phSource": "Dementia-Treatment-Concepts_PR",
   "phUser": {
     "focusUser": {
       "diagram": {

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "img",
+			"path": "../../osdu-akm-models/img"
+		},
+		{
+			"name": "kavca-dementia-models",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

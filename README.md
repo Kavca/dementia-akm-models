@@ -6,39 +6,7 @@ Click on the links below to open the models in AKM Modeller:
 
 - [Dementia Treatment Concepts](http://akmmclient-beta.vercel.app/modelling?focus=%7B%22githubFile%22%3A%7B%22org%22%3A%22kavca%22%2C%22repo%22%3A%22dementia-akm-models%22%2C%22branch%22%3A%22main%22%2C%22path%22%3A%22models%22%2C%22filename%22%3A%22Dementia-Treatment-Concepts_PR.json%22%7D%7D)
 
----
-
-## Introduction
-
-The Modelling process is based on the following steps:
-
-
-## Design Thinking 
-### Explore the problem
-
-## Lean Startup
-
-### Build the right Thing!
-
-This
-## Agile development
-### Build the Thing Right!
-
-![AKM Modelling Overview](./img/AKM-Modelling-Process.png)
-
-We adapt this general process to AKM modelling purpose.
-
-
----
-
-| Readme | [Project](https://github.com/orgs/Kavca/projects/3) | [Upload models](UploadModels.md) | [About](about.md) | 
-
-# Kavca Dementia Models
-
-Click on the links below to open the models in AKM Modeller:
-
-- [Dementia Treatment Concepts](http://akmmclient-beta.vercel.app/modelling?focus=%7B%22githubFile%22%3A%7B%22org%22%3A%22kavca%22%2C%22repo%22%3A%22dementia-akm-models%22%2C%22branch%22%3A%22main%22%2C%22path%22%3A%22models%22%2C%22filename%22%3A%22Dementia-Treatment-Concepts_PR.json%22%7D%7D)
-
+- [Modelling Project Training and Guides](https://github.com/Kavca/.github-private/blob/main/content/Home.md)
 ---
 
 ## Introduction
@@ -108,23 +76,6 @@ Click on the links below to open the models in AKM Modeller:
 - **Advanced Stage:** Intensive care, managing complex symptoms, end-of-life care.
 - **Ongoing:** Regular assessments, adapting treatment plans, caregiver support.
 - **Preventive Measures:** Early lifestyle changes, risk assessment, and regular check-ups for those at risk.
-
-
-
-## Design Thinking 
-### Explore the problem
-
-## Lean Startup
-
-### Build the right Thing!
-
-This
-## Agile development
-### Build the Thing Right!
-
-![AKM Modelling Overview](./img/AKM-Modelling-Process.png)
-
-We adapt this general process to AKM modelling purpose.
 
 
 ---

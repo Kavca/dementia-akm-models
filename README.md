@@ -79,6 +79,14 @@ Click on the links below to open the models in AKM Modeller:
 - **Ongoing:** Regular assessments, adapting treatment plans, caregiver support.
 - **Preventive Measures:** Early lifestyle changes, risk assessment, and regular check-ups for those at risk.
 
+---
+
+---
+
+# Project Methodology
+
+<details><summary>Desing Thinking</summary>
+
 The Design Thinking process is a user-centric approach to problem-solving that typically involves five phases. It's widely used in various fields, including software development, product design, and business innovation.
 
 Here's an overview of each phase:

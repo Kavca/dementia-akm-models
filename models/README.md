@@ -4,10 +4,10 @@ Aktive Knowledge Models (AKM) - Dementia Treatment
 This repository contains AKM Models for Dementia Treatment. The AKM model is represented in JSON format and can be found f.ex. in the 
 AKM-Dementia-treatment__PR.json file.
 
-## What is an AKM?
+## What is an AKM Model?
 An AKM is a knowledge representation model that captures knowledge in a structured and machine-readable format. It is designed to support reasoning and decision-making in complex domains.
 
-The AKM contains the following nodes:
+The AKM Model contains the following nodes:
 
 * Age: The age of the patient.
 * Gender: The gender of the patient.

@@ -1,4 +1,4 @@
-| Readme | [Project](https://github.com/orgs/Kavca/projects/3) | [Upload models](UploadModels.md) | [About]() | 
+| Readme | [Project](https://github.com/orgs/Kavca/projects/3) | [Upload models](UploadModels.md) | About | 
 
 # Kavca Dementia Models
 

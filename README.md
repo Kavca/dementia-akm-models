@@ -6,7 +6,7 @@ Click on the links below to open the models in AKM Modeller:
 
 - [Dementia-Treatment_PR.json](https://akmmclient-alfa.vercel.app/model?org=kavca&repo=dementia-akm-models&path=models&branch=main&file=Dementia-Treatment_PR.json&model=Dementia-Treatment_CM&modelview=0-Main)
 
-- [Dementia Treatment Concepts]([http://akmmclient-alfa.vercel.app/modelling?focus=%7B%22githubFile%22%3A%7B%22org%22%3A%22kavca%22%2C%22repo%22%3A%22dementia-akm-models%22%2C%22branch%22%3A%22main%22%2C%22path%22%3A%22models%22%2C%22filename%22%3A%22Dementia-Treatment-Concepts_PR.json%22%7D%7D](https://akmmclient-alfa.vercel.app/model?org=kavca&repo=dementia-akm-models&path=models&branch=main&file=Dementia-Treatment-Concepts_PR.json&model=Dementia-Overview-Phases_CM&modelview=0-Overview))
+- [Dementia Treatment Concepts](https://akmmclient-alfa.vercel.app/model?org=kavca&repo=dementia-akm-models&path=models&branch=main&file=Dementia-Treatment-Concepts_PR.json&model=Dementia-Overview-Phases_CM&modelview=0-Overview)
 
 
 

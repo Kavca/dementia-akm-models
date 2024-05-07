@@ -20036,7 +20036,7 @@
             },
             {
               "id": "32b1fdab-cf99-4fa2-6e0e-5b7ad14998f9",
-              "name": "Dolores, 89 years, dr. Arias's mother.",
+              "name": "Patient",
               "description": "Suffering from dementia",
               "abstract": false,
               "viewkind": "Object",
@@ -21060,7 +21060,7 @@
                 },
                 {
                   "id": "99ad9dd3-ddce-4dfe-6ab5-c42428df796f",
-                  "name": "Dolores, 89 years, dr. Arias's mother.",
+                  "name": "Patient",
                   "description": "",
                   "objectRef": "32b1fdab-cf99-4fa2-6e0e-5b7ad14998f9",
                   "typeviewRef": "69905cda-8f34-4124-e2f4-0cc0af193334",
@@ -21086,7 +21086,8 @@
                   "textscale": "1",
                   "arrowscale": "1.3",
                   "markedAsDeleted": false,
-                  "modified": true
+                  "modified": true,
+                  "text": ""
                 },
                 {
                   "id": "0d6c869c-cfb5-4552-6ba0-d7b0337d996b",
@@ -25844,12 +25845,12 @@
       "name": "Dementia-Treatment_CM"
     },
     "focusModelview": {
-      "id": "25369779-7e2d-4731-3d54-415f3c10da5d",
-      "name": "0-Main"
+      "id": "ea382694-dcd0-4703-0098-75c1f9a343a2",
+      "name": "2-Treatment"
     },
     "focusObjectview": {
-      "id": "25369779-7e2d-4731-3d54-415f3c10da5d",
-      "name": "0-Main"
+      "id": "99ad9dd3-ddce-4dfe-6ab5-c42428df796f",
+      "name": "Dolores, 89 years, dr. Arias's mother."
     },
     "focusRelship": {
       "id": null,
@@ -25889,7 +25890,7 @@
       "branch": "main",
       "projectNumber": "4",
       "username": "kavca",
-      "filename": "Dementia-VisionGoals_PR.json"
+      "filename": "Dementia-Treatment_PR.json"
     },
     "focusRole": {
       "id": "Modeller1",
@@ -26035,9 +26036,13 @@
     "focusTargetMetamodel": {
       "id": "1caf2b32-8248-4783-2b0c-d279fa270fdb",
       "name": "DTM_MM"
+    },
+    "focusObject": {
+      "id": "32b1fdab-cf99-4fa2-6e0e-5b7ad14998f9",
+      "name": "Dolores, 89 years, dr. Arias's mother."
     }
   },
-  "phSource": "GitHub: dementia-akm-models/models/Dementia-VisionGoals_PR.json",
+  "phSource": "AKM-IRTV Modelproject_PR",
   "phUser": {
     "focusUser": {
       "id": "email",

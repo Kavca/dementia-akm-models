@@ -10,6 +10,9 @@ Click on the links below to open the models in AKM Modeller:
 
 
 
+- [Dementia Concept Model](https://akmmclient-main.vercel.app/project?org=kavca&repo=kavca-dementia-models&path=models&file=Dementia-Treatment-Model.json&branch=current)
+---
+
 ## Introduction
 
 ## Why (Reasons for Treating Dementia)
